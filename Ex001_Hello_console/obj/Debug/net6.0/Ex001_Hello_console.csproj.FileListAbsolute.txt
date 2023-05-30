@@ -1,0 +1,15 @@
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\bin\Debug\net6.0\Ex001_Hello_console.exe
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\bin\Debug\net6.0\Ex001_Hello_console.deps.json
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\bin\Debug\net6.0\Ex001_Hello_console.runtimeconfig.json
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\bin\Debug\net6.0\Ex001_Hello_console.dll
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\bin\Debug\net6.0\Ex001_Hello_console.pdb
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.csproj.AssemblyReference.cache
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.AssemblyInfoInputs.cache
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.AssemblyInfo.cs
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.dll
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\refint\Ex001_Hello_console.dll
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.pdb
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\Ex001_Hello_console.genruntimeconfig.cache
+D:\GeekBrains\Lectures\Lecture1\Ex001_Hello_console\obj\Debug\net6.0\ref\Ex001_Hello_console.dll
